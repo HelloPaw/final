@@ -1,0 +1,1 @@
+var pantalla = prompt ("ok")
